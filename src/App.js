@@ -7,7 +7,11 @@ const emojiDictionary = {
   "😗": "Kissing Face",
   "😐": "Neutral Face",
   "😌": "Relieved Face",
-  "😴": "Sleeping Face"
+  "😴": "Sleeping Face",
+  "😇": "Smiling Face with Halo",
+  "🤔": "Thinking Face",
+  "🤐": "Zipper-Mouth Face",
+  "😝": "Squinting Face with Tongue",
 };
 
 const emojisWeKnow = Object.keys(emojiDictionary);
